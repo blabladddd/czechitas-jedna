@@ -1,1 +1,1 @@
-kldcmlkcmqwkelcmlk;
+import './ukol2.js';
